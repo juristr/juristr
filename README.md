@@ -5,6 +5,7 @@ I'm Juri! A passionate software developer & content creator. I love to talk to p
 - 🌍 Website: https://juri.dev
 - 🐦 Twitter: https://twitter.com/juristr
 - 📹 Youtube: https://www.youtube.com/juristrumpflohner
+- 📺 Twitch: https://twitch.tv/juridev
 - 🥚 Egghead: https://egghead.io/q/resources-by-juri-strumpflohner
 - 👉 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-juri-strumpflohner)
 
